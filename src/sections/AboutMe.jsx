@@ -1,9 +1,7 @@
 
 export default function AboutMe() {
-
     return (
     <div className="mt-10 p-4">
-        <h2 className="text-3xl font-semibold text-gray-700">About Me</h2>
         <p className="text-gray-600 mt-2">
         Hi All, Welcome to my interactive CV created with Vite, React & Tailwind CSS! 
         </p>
